@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @iniyan
-- 👀 I’m interested in WordPress, Notion, Python
+- 👀 I’m interested in WordPress, Notion, Python. Now building apps with Vibe Coding
 - 📫 How to reach me https://iniyan.in
 
 <!---
